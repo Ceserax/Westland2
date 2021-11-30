@@ -1,0 +1,16 @@
+ipywidgets 
+ipyvuetify 
+numpy 
+bqplot 
+pandas 
+voila
+
+
+
+
+
+
+
+
+
+
