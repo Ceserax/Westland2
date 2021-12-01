@@ -4,6 +4,7 @@ numpy
 bqplot 
 pandas 
 voila
+voila-material
 
 
 
